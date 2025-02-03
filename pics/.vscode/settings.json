@@ -1,0 +1,11 @@
+{
+  "javascript.format.semicolons": "remove",
+  "css.completion.completePropertyWithSemicolon": false,
+  "less.completion.completePropertyWithSemicolon": false,
+  "scss.completion.completePropertyWithSemicolon": false,
+  "prettier.semi": false,
+  "rust-analyzer.completion.addSemicolonToUnit": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "editor.acceptSuggestionOnCommitCharacter": false
+}
