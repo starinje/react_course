@@ -5,12 +5,16 @@
       "id": 7
     },
     {
-      "title": "sfsdfs",
+      "title": "Changing a title",
       "id": 8
     },
     {
-      "title": "another book",
+      "title": "Changing another title",
       "id": 9
+    },
+    {
+      "title": "And another book",
+      "id": 10
     }
   ]
 }
