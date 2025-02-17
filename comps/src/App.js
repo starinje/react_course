@@ -7,17 +7,19 @@ function App() {
 
   const items = [
     {
-      id: 
+      id: '1',
       label: 'Can I use react on a project?',
       content: 'You can use react on any project you choose...'
     },
     {
+      id: '2',
       label: 'Can I use react on a project?',
       content: 'You can use react on any project you choose...'
     },
     {
+      id: '3',
       label: 'Can I use react on a project?',
-      content: 'You can use react on any project you choose...'
+      content: 'Oh yeah.....'
     }
   ] 
 
