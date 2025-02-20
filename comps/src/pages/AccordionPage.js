@@ -1,4 +1,4 @@
-import Button from './components/Button';
+import Button from '../components/Button';
 import Accordion from '../components/Accordion';
 import { GoBell, GoCloudDownload, GoDatabase} from 'react-icons/go';
 
